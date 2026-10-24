@@ -136,6 +136,6 @@ Dashboard Preview
 
 The interactive Excel dashboard summarizes completed revenue, order performance, units sold, and sales trends across countries, product categories, and products.
 
-![E-commerce Sales Dashboard](ecommerce-sales-dashboard.png)
+![E-commerce Sales Dashboard](<Ecommerce-Sales Dashboard.png>)
 
 *The dashboard was built in Microsoft Excel and includes a year slicer for interactive analysis.*
