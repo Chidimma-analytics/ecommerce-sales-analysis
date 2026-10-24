@@ -132,7 +132,7 @@ Conclusion
 This project demonstrates an end-to-end Excel analytics workflow, from data-quality assessment and exploratory analysis to KPI development, interactive visualization, and business recommendations.
 
 The emphasis is not only on presenting numbers, but also on evaluating data reliability, explaining business implications, and identifying questions that require further investigation.
-## Dashboard Preview
+Dashboard Preview
 
 The interactive Excel dashboard summarizes completed revenue, order performance, units sold, and sales trends across countries, product categories, and products.
 
